@@ -1,0 +1,27 @@
+{
+  "name": "sol-preliminary-sales-information",
+  "version": "1.0.0",
+  "description": "Acceder a la información del preliminar del registro de ventas e ingresos",
+  "main": "./lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jasmine",
+    "start": "node /lib/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jldamians/sol-preliminary-sales-information.git"
+  },
+  "keywords": [
+    "sunat",
+    "sol"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jldamians/sol-preliminary-sales-information/issues"
+  },
+  "homepage": "https://github.com/jldamians/sol-preliminary-sales-information#readme"
+}
