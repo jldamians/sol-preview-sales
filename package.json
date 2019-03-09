@@ -1,6 +1,6 @@
 {
   "name": "sol-preliminary-sales-information",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Acceder a la información del preliminar del registro de ventas e ingresos",
   "main": "./lib/index.js",
   "directories": {
