@@ -1,6 +1,6 @@
 {
   "name": "sol-preview-sales",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Obtiene el preliminar del registro de ventas e ingresos desde el portal SOL del contribuyente",
   "main": "./lib/index.js",
   "directories": {
