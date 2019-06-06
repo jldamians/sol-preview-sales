@@ -1,7 +1,7 @@
 {
-  "name": "sol-preliminary-sales-information",
+  "name": "sol-preview-sales",
   "version": "1.0.2",
-  "description": "Acceder a la información del preliminar del registro de ventas e ingresos",
+  "description": "Obtiene el preliminar del registro de ventas e ingresos desde el portal SOL del contribuyente",
   "main": "./lib/index.js",
   "directories": {
     "lib": "lib"
@@ -12,16 +12,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jldamians/sol-preliminary-sales-information.git"
+    "url": "git+https://github.com/jldamians/sol-preview-sales.git"
   },
   "keywords": [
     "sunat",
     "sol"
   ],
-  "author": "",
+  "author": "jldamians <jlds161089@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jldamians/sol-preliminary-sales-information/issues"
+    "url": "https://github.com/jldamians/sol-preview-sales/issues"
   },
-  "homepage": "https://github.com/jldamians/sol-preliminary-sales-information#readme"
+  "homepage": "https://github.com/jldamians/sol-preview-sales#readme"
 }
